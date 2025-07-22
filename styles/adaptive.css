@@ -150,6 +150,10 @@
         margin: 35px 0;
     }
 
+    .calculator-total-body {
+    font-size: 28px;
+    }
+
     .calculator {
         padding: 60px 0;
     }
