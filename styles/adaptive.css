@@ -146,6 +146,14 @@
         font-size: 34px;
     }
 
+    .calculator-time {
+        margin: 20px 0;
+    }
+
+    .calculator {
+        padding: 60px 0;
+    }
+
     .main-subtitle {
         font-size: 22px;
         margin-bottom: 80px;
