@@ -154,6 +154,10 @@
         padding: 60px 0;
     }
 
+    .calculator-delivery-text {
+        font-size: 18px;
+    }
+
     .hours-out {
         width: 50px;
         height: 30px;
@@ -302,9 +306,6 @@
     }
     .product-grid p {
         font-size: 16px;
-    }
-    .calculator-delivery-text {
-        font-size: 20px;
     }
 
     .select-current {
