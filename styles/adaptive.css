@@ -275,6 +275,14 @@
 }
 
 @media screen and (max-width: 376px) {
+    .main-title {
+        font-size: 34px
+    } 
+
+    .title {
+        font-size: 30px;
+    }
+    
     .product-title {
         font-size: 28px;
     }
