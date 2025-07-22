@@ -126,6 +126,7 @@
 
     .popup {
         width: fit-content;
+        height: fit-content;
     }
 
     .popup-input {
