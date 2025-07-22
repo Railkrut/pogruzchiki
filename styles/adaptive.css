@@ -194,6 +194,10 @@
         right: 15px;
     }
 
+    .header {
+        position: static;
+    }
+
     .header-burger-image path {
         stroke: #f4f5f6;
     }
