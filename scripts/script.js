@@ -348,6 +348,7 @@ const popupValidate = () => {
                   response.errors[field];
               }
             } else {
+              document.getElementById("formSuccess").style.color = red
               document.getElementById("formSuccess").textContent =
                 "Произошла ошибка при отправке: " + response.message;
             }
